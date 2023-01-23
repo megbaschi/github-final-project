@@ -6,7 +6,7 @@
 
    # Author: Megha B
    # Additional Authors:
-   # <your GitHub username>
+   # megbaschi
 
    # Input:
    # p, principal amount
